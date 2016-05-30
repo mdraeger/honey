@@ -1,0 +1,4 @@
+0.1.0.0 - Created initial project.
+1.0.0.0 - First stable version. 
+    - Images can only get smaller.
+    - Existing files cannot be overwritten.

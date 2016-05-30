@@ -2,7 +2,7 @@
 log
 dist
 
-.cabal.sandbox.config
+cabal.sandbox.config
 *.swp
 *~
 *.hi
